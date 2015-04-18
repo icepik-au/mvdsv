@@ -62,12 +62,12 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 
 #define	QW_VERSION			"2.40"
-#define VERSION_NUMBER		"0.31-beta.1"
+#define VERSION_NUMBER		"0.31-b1"
 #define VERSION_NUM			0.31
 #define SERVER_NAME			"MVDSV"
 
 #define PROJECT_NAME		SERVER_NAME
-#define PROJECT_URL			"https://github.com/deurk/mvdsv"
+#define PROJECT_URL			"https://github.com/icepik-au/mvdsv"
 #define BUILD_DATE			"Build date: " __DATE__ ", " __TIME__
 
 #define QWDTOOLS_NAME		"QWDtools"
